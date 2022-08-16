@@ -29,6 +29,7 @@ git clone https://github.com/xiupos/Sapporo ~/.config/libskk/rules/Sapporo
 | xt | | | `ッ` | | `ㇳ` |
 | xn | | | `ㇴ` | | |
 | xh | `ㇵ` | `ㇶ` | `ㇷ` | `ㇸ` | `ㇹ` |
+| xp | | | `ㇷ゚` | | |
 | xm | | | `ㇺ` | | |
 | xy | `ャ` | | `ュ` | | `ョ` |
 | xr | `ㇻ` | `ㇼ` | `ㇽ` | `ㇾ` | `ㇿ` |
