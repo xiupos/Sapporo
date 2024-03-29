@@ -43,7 +43,7 @@ GPLv3+
 
 Copyright (C) 2011-2018 Daiki Ueno <ueno@gnu.org>
 Copyright (C) 2011-2018 Red Hat, Inc.
-Copyright (C) 2024 xiupos <me@xiupos.net>.
+Copyright (C) 2024 xiupos <me@xiupos.net>
 
 This file is free software; as a special exception the author gives
 unlimited permission to copy and/or distribute it, with or without
