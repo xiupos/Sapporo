@@ -5,6 +5,7 @@ Xiupoy typing rule for libskk (based on [the default rule](https://github.com/ue
 ## Install
 
 ```bash
+mkdir -p ~/.config/libskk/rules
 git clone https://github.com/xiupos/Sapporo ~/.config/libskk/rules/Sapporo
 ```
 
