@@ -24,7 +24,7 @@ git clone https://github.com/xiupos/Sapporo ~/.config/libskk/rules/Sapporo
 | | a | i | u | e | o |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | x | `ァ` | `ィ` | `ゥ` | `ェ` | `ォ` |
-| xk | `ァ` | | `ㇰ` | `ヶ` | |
+| xk | `ヵ` | | `ㇰ` | `ヶ` | |
 | xs | | `ㇱ` | `ㇲ` | | |
 | xt | | | `ッ` | | `ㇳ` |
 | xn | | | `ㇴ` | | |
